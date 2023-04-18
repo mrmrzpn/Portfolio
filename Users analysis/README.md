@@ -1,6 +1,6 @@
 # Анализ поведения пользователей мобильного приложения
-[Версия с Plotly в HTML]()  
-[Версия с Seaborn и Matplotlib в ipynb]()
+[Версия с Plotly - HTML]()  
+[Версия с Seaborn и Matplotlib - ipynb]()
 
 ## Описание проекта
 
