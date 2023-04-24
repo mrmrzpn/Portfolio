@@ -1,5 +1,5 @@
 # Анализ поведения пользователей мобильного приложения
-[ipynb c plotly](https://github.com/mrmrzpn/portfolio/blob/999322599c3359348f455db3add7d10139ab9fa4/users_analysis/users_analysis.ipynb)  
+[ipynb c интерактивными графиками plotly](https://nbviewer.org/github/mrmrzpn/portfolio/blob/main/users_analysis/users_analysis.ipynb)  
 [pdf без интерактивных графиков plotly](https://github.com/mrmrzpn/portfolio/blob/999322599c3359348f455db3add7d10139ab9fa4/users_analysis/users_analysis.pdf)  
 
 ## Описание проекта
