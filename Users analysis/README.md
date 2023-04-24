@@ -1,5 +1,6 @@
 # Анализ поведения пользователей мобильного приложения
-[Версия с Plotly](https://github.com/mrmrzpn/Portfolio/blob/main/Users%20analysis/Users%20analysis.ipynb)  
+[Версия с Plotly - ipynb]()
+[Версия с Plotly - pdf]()
 [Версия с Seaborn и Matplotlib]()
 
 ## Описание проекта
