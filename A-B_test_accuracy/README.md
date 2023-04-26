@@ -1,6 +1,6 @@
 # Анализ корректности А/В теста
-[ipynb c интерактивными графиками plotly]()  
-[pdf без интерактивных графиков plotly]()  
+[ipynb c интерактивными графиками plotly](https://nbviewer.org/github/mrmrzpn/portfolio/blob/main/A-B_test_accuracy/A-B_test_accuracy.ipynb)  
+[pdf без интерактивных графиков plotly](https://github.com/mrmrzpn/portfolio/blob/9ec1c774de49426db936118074586fcaada4ed83/A-B_test_accuracy/A-B_test_accuracy.pdf)  
 
 ## Описание проекта
 
