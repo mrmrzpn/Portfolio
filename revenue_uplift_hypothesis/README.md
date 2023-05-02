@@ -1,5 +1,5 @@
 # Тестирование гипотезы по увеличению выручки интернет-магазина
-[ipynb]()
+[ipynb](https://github.com/mrmrzpn/portfolio/blob/daf7d64416c481386daf37211287d8ef05a6ba58/revenue_uplift_hypothesis/revenue_uplift_hypothesis.ipynb)
 
 ## Описание проекта
 
@@ -12,7 +12,6 @@
 - numpy
 - scipy
 - matplotlib
-- seaborn
 - ICE / RICE
 
 ## Результат
