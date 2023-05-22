@@ -12,8 +12,6 @@
 - numpy
 - scipy
 - statsmodels
-- matplotlib
-- seaborn
 - plotly
 
 ## Результат
